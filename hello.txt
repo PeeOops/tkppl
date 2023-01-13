@@ -2,3 +2,5 @@ My first commit to github
 
 Menambah fitur cabang yang induk cabangnya adalah develop
 
+Sekarang di cabang rilis akan merge ke cabang master
+
